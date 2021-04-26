@@ -5,4 +5,5 @@ variable "instancetype" {
 
 variable "db_instance_class" {
   description = "Category of RDS instance"
+  instanceclass = "db.t2.micro"
 }
