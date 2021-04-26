@@ -1,6 +1,6 @@
 data "aws_ami" "web_ami" {
   most_recent = true
-  owners      = ["099720109477"]
+  owners      = ["977621109927"]
 
 
   filter {
